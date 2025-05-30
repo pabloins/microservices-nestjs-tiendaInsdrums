@@ -1,3 +1,6 @@
 [submodule "client-gateway"]
 	path = client-gateway
 	url = https://github.com/pabloins/nestjs-microservices-client-gateway-insdrums.git
+[submodule "auth-ms"]
+	path = auth-ms
+	url = https://github.com/pabloins/nestjs-microservices-auth-ms-insdrums.git
